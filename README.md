@@ -1,5 +1,5 @@
 # currencyconverter-spring-boot-rest-api
-Simple Currency Converter using REST API with Spring Boot platform
+Simple Currency Converter using REST API with Spring Boot platform. This API enable to provide us historical data of the currency country available from fixer.io country list.
 
 This project divided into two parts, currency converter via web browser and also via JSON response
 
