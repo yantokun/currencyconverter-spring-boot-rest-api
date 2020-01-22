@@ -9,7 +9,7 @@ This project divided into two parts, currency converter via web browser and also
 
 http://localhost:9000/exchangeRate?date=2020-01-18&baseCurrency=MYR&convertCurrency=USD&amount=1
 
---- GUI entrypoints ---
+--- GUI entrypoint ---
 http://localhost:9000/index
 
 
