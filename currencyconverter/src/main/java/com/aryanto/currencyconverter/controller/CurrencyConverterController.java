@@ -34,7 +34,7 @@ public class CurrencyConverterController {
 	
 	
 	
-	@RequestMapping(value="/",method=RequestMethod.GET)
+	@RequestMapping(value="/index",method=RequestMethod.GET)
 	public String currencySetup(Model model, CurrencyConverterDAO currencyDAO, CurrencyAttribute currencyAttribute){
 		
 		currencyAttribute = new CurrencyAttribute();
