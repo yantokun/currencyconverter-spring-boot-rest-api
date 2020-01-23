@@ -5,11 +5,11 @@ This project divided into two parts, currency converter via web browser and also
 
 
 
-# basic url to get exchange Rate from base Currency to intended convert Currency
+# Basic url to get exchange Rate from base Currency to intended convert Currency
 
 http://localhost:9000/exchangeRate?date=2020-01-18&baseCurrency=MYR&convertCurrency=USD&amount=1
 
---- GUI entrypoint ---
+# GUI entrypoint
 http://localhost:9000/index
 
 
