@@ -13,7 +13,7 @@ http://localhost:9000/exchangeRate?date=2020-01-18&baseCurrency=MYR&convertCurre
 http://localhost:9000/index
 
 
-# Runing to get the jar file
+# Running to get the jar file
 mvn clean install
 
 # Running the jar
